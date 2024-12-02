@@ -1,0 +1,15 @@
+.container {padding: 20px;
+    margin: 25px;}
+
+form {background-color: rgba(223, 233, 236,0.8);
+    padding: 25px;
+    margin: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+    border-radius: 30px;}
+
+body {background-image: url(https://i.pinimg.com/1200x/7c/66/33/7c663303bc939d2eb6d5af9197241ef4.jpg);
+    background-size: cover;
+    color: #0c2c5f;
+    border-radius: 10px;}
